@@ -1,4 +1,3 @@
 # Web-Development
-Web Development internship done in Exposysdata labs. 
-An E-commerence website.
+Web Development internship done in Exposysdata labs.
 This is the demo video of the following code based on E-commerence platform...
